@@ -1,0 +1,15 @@
+## Crear repositorio primera vez y subir archivo
+1. crear repositoyio
+2. ir al cmd desde carpeta ruta
+3. git init -> inicializar el github
+4. git add .
+5. git commit -m "mensaje"
+6. git branch -M main
+7. git remote add origin <url>
+8. git push -u origin main
+
+## subir un nuevo archivo o subir un archivo modificado
+1. Crear un archivo nuevo o modificar un archivo existente
+2. git add .
+3. git commit -m "mensaje"
+4. git push -u origin main
